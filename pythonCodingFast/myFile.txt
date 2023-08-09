@@ -1,0 +1,4 @@
+Line 12 has something called a while statement, which indicates the beginning of a while loop. 
+Loops are parts of code that are executed over and over again.
+But before we can learn about while loops, we need to learn a few other concepts first. 
+Those concepts are blocks, Booleans, comparison operators, conditions, and finally, the while statement. /nThis line added bro :)
